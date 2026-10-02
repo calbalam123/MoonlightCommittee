@@ -33,3 +33,7 @@ GitHub의 **Actions → Build Windows EXE** 실행이 완료되면 **Artifacts**
 ## 주의
 이 프로그램은 카카오톡 공식 봇 API가 아니라 Windows PC UI 자동화를 사용하는 베타 프로젝트입니다.
 카카오톡 업데이트에 따라 자동화 동작이 변경될 수 있습니다.
+
+
+## 빌드 상태
+최신 커밋이 `main`에 올라가면 Windows EXE 빌드가 자동 실행됩니다.
